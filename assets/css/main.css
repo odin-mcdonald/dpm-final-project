@@ -2191,6 +2191,10 @@ button,
   font-size: 0.9em; }
   #footer .copyright a {
     color: inherit; }
+    footer {
+      padding-left: 20px;
+    }
+    
 
 /* Menu */
 #menu ul {
